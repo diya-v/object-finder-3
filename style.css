@@ -1,0 +1,15 @@
+canvas{
+    border-color: rgb(123, 255, 22);
+    border-width: 5px;
+    border-style: ridge;
+}
+#footer{
+    background-color: darkblue;
+    bottom:0;
+    position:fixed;
+    width:100%;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
